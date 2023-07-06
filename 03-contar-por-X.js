@@ -28,6 +28,4 @@ function multipleOf (number, limit) {
   return multiples;
 }
 
-// multipleOf (2, 5);
-
 console.log(multipleOf (2, 5));
